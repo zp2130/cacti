@@ -2,8 +2,6 @@
 
 https://blogs.cuit.columbia.edu/zp2130/cacti/
 
-&nbsp;
-
 <pre style="text-align: center;"><span style="color: #cc0000; font-family: 'times new roman', times, serif; font-size: 14pt;"><strong><span style="color: #cc0000;">Cacti++</span></strong></span></pre>
 <p style="text-align: left;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Github: <a href="https://github.com/zp2130/cacti" target="_blank" rel="noopener">https://github.com/zp2130/cacti</a></span></p>
 <span style="font-family: 'times new roman', times, serif; font-size: 14pt;">The research project is a collaborative undertaking between the University of Texas at Arlington (UTA) and <span style="color: #009999;"><a style="color: #009999;" href="https://www.imec-int.com/en" target="_blank" rel="noopener">Interuniversity Microelectronics Centre</a> (<a style="color: #009999;" href="https://www.imec-int.com/en" target="_blank" rel="noopener">IMEC</a>).</span> A confidentiality agreement has been duly executed by UTA and IMEC. Under copyright and intellectual property protection regulations, the executable file, technology data file, and source code are not available for online distribution. We appreciate your consideration.</span>
