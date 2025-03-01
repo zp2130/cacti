@@ -10,7 +10,7 @@
 
 <span style="font-family: 'times new roman', times, serif; font-size: 14pt;">[News] <a href="https://new.newsedge.com/?cmmd=readStory&amp;uurp2=1&amp;key=C1uM33-JuPXT5RFjBhKAdmQqNogjD_jKs6Ty3K98IIW3mujHU5uUkpuhLIqLwCaC-u5ewVOR2I2NFpIvEeg9VEt1Z9-Mg0DTzboFCjE4tLrGens5Ba_47HwwCpCpq-aY&amp;client=rssfeed_25363_s186560&amp;uurp=1" target="_blank" rel="noopener">UTA aims to build a better microchip</a> - <em>Electronic Business Daily</em>, Feb. 11, 2021. <a href="https://blogs.cuit.columbia.edu/zp2130/cacti/news_2/" target="_blank" rel="attachment noopener wp-att-5824">pdf</a>.</span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;"><img class="aligncenter size-full wp-image-5750" src="http://blogs.cuit.columbia.edu/zp2130/files/2024/09/3DIC_intsim_pso_10061.png" alt="Cacti++" width="1051" height="556" /></span>
+<span style="font-family: 'times new roman', times, serif; font-size: 14pt;"><img class="aligncenter size-full wp-image-5750" src="http://blogs.cuit.columbia.edu/zp2130/files/2024/09/3DIC_intsim_pso_10061.png" alt="Cacti++" width="840" height="444" /></span>
 
 <span style="font-family: 'times new roman', times, serif; font-size: 14pt;"><img class="aligncenter wp-image-5600 size-full" src="http://blogs.cuit.columbia.edu/zp2130/files/2024/09/3DIC_intsim_pso_10024.png" alt="" width="1108" height="634" /></span>
 
