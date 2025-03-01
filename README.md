@@ -1,4 +1,4 @@
-# cacti++
+# Cacti++
 
 <pre style="text-align: center;"><span style="color: #cc0000; font-family: 'times new roman', times, serif; font-size: 14pt;"><strong><span style="color: #cc0000;">Cacti++</span></strong></span></pre>
 <p style="text-align: left;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Web: <a href="https://blogs.cuit.columbia.edu/zp2130/cacti/" target="_blank" rel="noopener">https://blogs.cuit.columbia.edu/zp2130/cacti/</a></span></p>
