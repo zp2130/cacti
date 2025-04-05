@@ -502,7 +502,7 @@
 
 <span style="font-family: 'times new roman', times, serif; font-size: 14pt;"><a href="https://scholar.google.com/citations?hl=en&amp;user=-pdAvr4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a></span>
 
-<span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>Selected Publications </strong>(as of Jan. 2025)</span>
+<span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>Selected Publications </strong>(as of March 2025)</span>
 
 <span style="font-family: 'times new roman', times, serif; font-size: 14pt;">The <span style="color: #0000ff;">corresponding <code>Cacti++</code> papers in blue</span> are as follows: </span>
 
