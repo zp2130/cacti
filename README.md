@@ -3,7 +3,7 @@
 <hr />
 
 <pre style="text-align: center;"><span style="color: #cc0000; font-family: 'times new roman', times, serif; font-size: 14pt;"><strong><span style="color: #cc0000;">Cacti++</span></strong></span></pre>
-<p style="text-align: left;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Web: <a href="https://blogs.cuit.columbia.edu/zp2130/cacti/" target="_blank" rel="noopener">https://blogs.cuit.columbia.edu/zp2130/cacti/</a></span></p>
+<p style="text-align: left;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Github: <a href="https://github.com/zp2130/cacti" target="_blank" rel="noopener">https://github.com/zp2130/cacti</a></span></p>
 <span style="font-family: 'times new roman', times, serif; font-size: 14pt;">The research project is a collaborative undertaking between the University of Texas at Arlington (UTA) and <span style="color: #009999;"><a style="color: #009999;" href="https://www.imec-int.com/en" target="_blank" rel="noopener">Interuniversity Microelectronics Centre</a> (<a style="color: #009999;" href="https://www.imec-int.com/en" target="_blank" rel="noopener">IMEC</a>).</span> A confidentiality agreement has been duly executed by UTA and IMEC. Under copyright and intellectual property protection regulations, the executable file, technology data file, and source code are not available for online distribution. We appreciate your consideration.</span>
 
 <span style="font-family: 'times new roman', times, serif; font-size: 14pt;">[News] <a href="https://www.uta.edu/news/news-releases/2021/01/29/pan-microchips" target="_blank" rel="noopener">UTA aims to build a better microchip - Electrical engineer works to improve on-chip interconnect performance</a> - <em>Written by Jeremy Agor, College of Engineering, </em>Jan. 29, 2021.</span>
@@ -12,11 +12,13 @@
 
 <span style="font-family: 'times new roman', times, serif; font-size: 14pt;">[News] <a href="https://new.newsedge.com/?cmmd=readStory&amp;uurp2=1&amp;key=C1uM33-JuPXT5RFjBhKAdmQqNogjD_jKs6Ty3K98IIW3mujHU5uUkpuhLIqLwCaC-u5ewVOR2I2NFpIvEeg9VEt1Z9-Mg0DTzboFCjE4tLrGens5Ba_47HwwCpCpq-aY&amp;client=rssfeed_25363_s186560&amp;uurp=1" target="_blank" rel="noopener">UTA aims to build a better microchip</a> - <em>Electronic Business Daily</em>, Feb. 11, 2021. <a href="https://blogs.cuit.columbia.edu/zp2130/cacti/news_2/" target="_blank" rel="attachment noopener wp-att-5824">pdf</a>.</span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;"><img class="aligncenter size-full wp-image-5750" src="http://blogs.cuit.columbia.edu/zp2130/files/2024/09/3DIC_intsim_pso_10061.png" alt="Cacti++" width="900" height="459" /></span>
+<span style="font-family: 'times new roman', times, serif; font-size: 14pt;"><img class="aligncenter size-full wp-image-5750" src="http://blogs.cuit.columbia.edu/zp2130/files/2024/09/3DIC_intsim_pso_10061.png" alt="Cacti++" width="2101" height="1111" /></span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;"><img class="aligncenter wp-image-5600 size-full" src="http://blogs.cuit.columbia.edu/zp2130/files/2024/09/3DIC_intsim_pso_10024.png" alt="" width="900" height="504" /></span>
+<span style="font-family: 'times new roman', times, serif; font-size: 14pt;"><img class="aligncenter wp-image-5600 size-full" src="http://blogs.cuit.columbia.edu/zp2130/files/2024/09/3DIC_intsim_pso_10024.png" alt="" width="1704" height="976" /></span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;">The open-source <strong>CACTI</strong> simulator, a widely recognized tool, is adopted and modified to optimize the cache memory system. CACTI employs a systematic approach to adjusting SRAM cache memory organization parameters, with the objective of achieving optimal metrics as defined by the users. These metrics may include, for instance, minimum energy-delay product (EDP) or <span class="fontstyle0">energy-delay-area product (EDAP) for performance-power-area (<strong><span style="color: #dc0000;">PPA</span></strong>)</span>. To integrate the <span style="color: #009999;"><a style="color: #009999;" href="https://www.imec-int.com/en" target="_blank" rel="noopener"><strong>IMEC</strong></a></span>-designed subarray, key performance metrics in the original CACTI, such as area, energy, and delay, are incorporated based on true and reliable values extracted from experimental simulations and data in <span style="color: #dc0000;"><a style="color: #dc0000;" href="https://www.cadence.com" target="_blank" rel="noopener">Cadence</a> <strong>Virtuoso</strong>/Spectre</span> and <span style="color: #7030a0;"><a style="color: #7030a0;" href="https://www.synopsys.com" target="_blank" rel="noopener">Synopsys</a> <strong>Hspice</strong>/QuickCap</span>. The Cacti-based framework, <code><span style="color: #cc0000;"><strong>Cacti++</strong></span></code>, incorporates the overhead associated with the tag array within the cache memory system. The extraction of interconnect and device level parameters is conducted using <span style="color: #dc0000;">Cadence <strong>Spectre</strong></span> and <span style="color: #7030a0;">Synopsys <strong>Raphael</strong></span>, with the utilization of state-of-the-art technology nodes from <span style="color: #009999;">IMEC</span>. </span>
+<img class="aligncenter wp-image-6450 size-full" src="http://blogs.cuit.columbia.edu/zp2130/files/2025/07/c_linux.png" alt="" width="4985" height="1440" />
+
+<span style="font-family: 'times new roman', times, serif; font-size: 14pt;">The open-source <a href="https://github.com/HewlettPackard/cacti" target="_blank" rel="noopener"><strong>CACTI</strong></a> simulator, a widely recognized tool, is adopted and modified to optimize the cache memory system. CACTI employs a systematic approach to adjusting SRAM cache memory organization parameters, with the objective of achieving optimal metrics as defined by the users. These metrics may include, for instance, minimum energy-delay product (EDP) or <span class="fontstyle0">energy-delay-area product (EDAP) for performance-power-area (<strong><span style="color: #dc0000;">PPA</span></strong>)</span>. To integrate the <span style="color: #009999;"><a style="color: #009999;" href="https://www.imec-int.com/en" target="_blank" rel="noopener"><strong>IMEC</strong></a></span>-designed subarray, key performance metrics in the original CACTI, such as area, energy, and delay, are incorporated based on true and reliable values extracted from experimental simulations and data in <span style="color: #dc0000;"><a style="color: #dc0000;" href="https://www.cadence.com" target="_blank" rel="noopener">Cadence</a> <strong>Virtuoso</strong>/Spectre</span> and <span style="color: #7030a0;"><a style="color: #7030a0;" href="https://www.synopsys.com" target="_blank" rel="noopener">Synopsys</a> <strong>Hspice</strong>/QuickCap</span>. The Cacti-based framework, <code><span style="color: #cc0000;"><strong>Cacti++</strong></span></code>, incorporates the overhead associated with the tag array within the cache memory system. The extraction of interconnect and device level parameters is conducted using <span style="color: #dc0000;">Cadence <strong>Spectre</strong></span> and <span style="color: #7030a0;">Synopsys <strong>Raphael</strong></span>, with the utilization of state-of-the-art technology nodes from <span style="color: #009999;">IMEC</span>. </span>
 
 <span style="font-family: 'times new roman', times, serif; font-size: 14pt;">In the <strong>Linux operating system</strong>, the <strong><code>Cacti++</code></strong> framework contains <span style="color: #cc0000;"><strong>an executable file</strong></span> developed by <strong><code>C++</code></strong>, as well as <span style="color: #009999;"><strong>technology parameter data files</strong></span> and <strong>code</strong> for performing simulations in a large exploration space with high speed and low resource consumption, generated by <code><strong>Matlab</strong></code>. These are automatically generated to systematically sweep input design parameters for the aforementioned executable file and result extraction. The objective of this process is to comprehensively investigate energy-efficient computing systems, spanning from <span style="color: #009999;"><strong>technology node</strong></span> level to <strong>system</strong> level (a cache memory system), with consideration of both <strong>software</strong> and <strong>hardware</strong>.</span>
 
@@ -43,26 +45,26 @@
 </tr>
 </tbody>
 </table>
-<h2><span style="color: #0070c0;"><strong><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Summary of Model Evolution</span></strong></span></h2>
+<h2><span style="color: #0070c0; font-family: 'times new roman', times, serif;"><strong><span style="font-size: 14pt;">Summary of Model Evolution</span></strong></span></h2>
 <table style="height: 242px; width: 100%; border-collapse: collapse; border-color: #707070; border-style: dashed;">
 <tbody>
 <tr style="height: 44px;">
 <td style="width: 10%; text-align: center; height: 66px;" rowspan="2"><span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>Interconnect Device Technology</strong></span></td>
-<td style="width: 10%; text-align: center; height: 66px;" rowspan="2"><span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>ASU PTM [10]</strong></span></td>
-<td style="width: 30%; text-align: center; height: 66px;" colspan="3" rowspan="2"><span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>IMEC iN5 [2, 7~9]</strong></span></td>
-<td style="width: 57.094%; text-align: center; height: 44px;" colspan="4"><span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>IMEC iN3/A14 [1, 3, 4, *]</strong></span></td>
+<td style="width: 10%; text-align: center; height: 66px;" rowspan="2"><span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>ASU PTM [6]</strong></span></td>
+<td style="width: 30.2491%; text-align: center; height: 66px;" colspan="3" rowspan="2"><span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>IMEC iN5 [7~9, 14, 16]</strong></span></td>
+<td style="width: 56.8449%; text-align: center; height: 44px;" colspan="4"><span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>IMEC iN3/A14 [12, 13, 15, 17*, **]</strong></span></td>
 <td style="width: 1.45299%; text-align: center; height: 44px;"><span style="font-family: 'times new roman', times, serif;">1</span></td>
 </tr>
 <tr style="height: 22px;">
-<td style="width: 38.547%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Repeater Insertion</span></td>
-<td style="width: 18.547%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Repeater vs DTL</span></td>
+<td style="width: 26.7201%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Repeater Insertion</span></td>
+<td style="width: 30.1248%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Repeater vs DTL</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif;">2</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>Subarray</strong></span></td>
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">PTM-based bitline for materials</span></td>
-<td style="width: 30%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">High-level Subarray Model</span></td>
-<td style="width: 57.094%; text-align: center; height: 22px;" colspan="4"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">IMEC-designed A3~14</span></td>
+<td style="width: 30.2491%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">High-level Subarray Model</span></td>
+<td style="width: 56.8449%; text-align: center; height: 22px;" colspan="4"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">IMEC-designed A3~14</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif;">3</span></td>
 </tr>
 <tr style="height: 22px;">
@@ -86,21 +88,21 @@
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>Cache/Array</strong></span></td>
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Original arrays, no logic cores.</span></td>
-<td style="width: 40%; text-align: center; height: 22px;" colspan="4"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Data array, A<sub>logic</sub>=A<sub>sum_subarray</sub></span></td>
-<td style="width: 47.094%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Cache with tag array overhead, A<sub>logic</sub>=A<sub>cache</sub></span></td>
+<td style="width: 37.8308%; text-align: center; height: 22px;" colspan="4"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Data array, A<sub>logic</sub>=A<sub>sum_subarray</sub></span></td>
+<td style="width: 49.2632%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Cache with tag array overhead, A<sub>logic</sub>=A<sub>cache</sub></span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif;">7</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>Interconnect Delay/Energy</strong></span></td>
-<td style="width: 60%; text-align: center; height: 22px;" colspan="6"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Original equation-based 30% delay overhead for Tpu/Epu</span></td>
-<td style="width: 37.094%; text-align: center; height: 22px;" colspan="2"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Spectre simulation &amp; Matlab fitting</span></td>
+<td style="width: 57.1413%; text-align: center; height: 22px;" colspan="6"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Original equation-based 30% delay overhead for Tpu/Epu</span></td>
+<td style="width: 39.9527%; text-align: center; height: 22px;" colspan="2"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Spectre simulation &amp; Matlab fitting</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif;">8</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>Interconnect RC/RLC</strong></span></td>
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Original assumptions</span></td>
-<td style="width: 68.547%; text-align: center; height: 22px;" colspan="6"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Cpu is extracted by Synopsys Raphael</span></td>
-<td style="width: 18.547%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">DTL adopts RLC</span></td>
+<td style="width: 56.9692%; text-align: center; height: 22px;" colspan="6"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Cpu is extracted by Synopsys Raphael</span></td>
+<td style="width: 30.1248%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">DTL adopts RLC</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif;">9</span></td>
 </tr>
 <tr style="height: 22px;">
@@ -108,12 +110,18 @@
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">2</span></td>
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">3</span></td>
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">4</span></td>
-<td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">5</span></td>
-<td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">6</span></td>
-<td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">7</span></td>
-<td style="width: 18.547%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">8</span></td>
-<td style="width: 18.547%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif;">9</span></td>
+<td style="width: 10.2491%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">5</span></td>
+<td style="width: 7.58171%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">6</span></td>
+<td style="width: 9.31047%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">7</span></td>
+<td style="width: 9.82793%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">8</span></td>
+<td style="width: 30.1248%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif;">9</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif;">10</span></td>
+</tr>
+<tr>
+<td style="width: 10%; text-align: center;"><strong><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">Metrics</span></strong></td>
+<td style="width: 97.094%; text-align: center;" colspan="8"><strong><span style="font-family: 'times new roman', times, serif; font-size: 14pt;">→Model Development Timeline→</span></strong><span style="font-family: 'times new roman', times, serif;">
+</span></td>
+<td style="width: 1.45299%; text-align: center;"><span style="font-family: 'times new roman', times, serif;"> </span></td>
 </tr>
 </tbody>
 </table>
@@ -576,42 +584,44 @@
 
 <hr />
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;"><a href="https://scholar.google.com/citations?hl=en&amp;user=-pdAvr4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a></span>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><a href="https://scholar.google.com/citations?hl=en&amp;user=-pdAvr4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0002-0926-2838" target="_blank" rel="noopener">ORCID</a></span>
+<pre><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Selected Publications </strong>(as of July 2025)</span></pre>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">The <span style="color: #0000ff;">corresponding <code>Cacti++</code> papers in blue</span> are as follows: </span>
 
-<span style="font-size: 14pt; font-family: 'times new roman', times, serif;"><strong>Selected Publications </strong>(as of May 2025)</span>
+<span style="font-family: 'times new roman', times, serif; color: #0000ff; font-size: 12pt;">[17*] Z. Pei, H.-H. Liu, M. Mayahinia, M. Tahoori, F. Catthoor, Z. Tokei, P. Dubey, and C. Pan, "Interconnect/Memory Co-Design and Co-Optimization Using Differential Transmission Lines," <em>IEEE Transactions on Very Large Scale Integration (VLSI) Systems, </em>2025<em>.</em> (*under review after revision)</span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;">The <span style="color: #0000ff;">corresponding <code>Cacti++</code> papers in blue</span> are as follows: </span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">[16] M. Mayahinia, T. Marinelli, Z. Pei, H.-H. Liu, C. Pan, Z. Tőkei, F. Catthoor, M.B. Tahoori, “System-scenario-based Design of the Last-Level Cache in Advanced Interconnect-Dominant Technology Nodes,” <em>ACM</em> <em>Transactions on Embedded Computing Systems (TECS),</em> 2025. (accepted)</span>
 
-<span style="font-family: 'times new roman', times, serif; color: #0000ff; font-size: 14pt;">[*] Z. Pei, H.-H. Liu, M. Mayahinia, M. Tahoori, F. Catthoor, Z. Tokei, P. Dubey, and C. Pan, "Interconnect/Memory Co-Design and Co-Optimization Using Differential Transmission Lines," <em>IEEE Transactions on Very Large Scale Integration (VLSI) Systems</em>, (*under review after revision).</span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">[15] Z. Pei, H.-H. Liu, M. Mayahinia, M. B. Tahoori, F. Catthoor, Z. Tőkei, D. B. Abdi, J. Myers, and C. Pan, "Ultra-Scaled E-Tree-Based SRAM Design and Optimization With Interconnect Focus," <em>IEEE Transactions on Circuits and Systems I: Regular Papers, </em>2024. DOI: 10.1109/TCSI.2024.3438164</span>
 
-<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 14pt;">[1] Z. Pei, H.-H. Liu, M. Mayahinia, M. B. Tahoori, F. Catthoor, Z. Tőkei, D. B. Abdi, J. Myers, and C. Pan, "Ultra-Scaled E-Tree-Based SRAM Design and Optimization With Interconnect Focus," <em>IEEE Transactions on Circuits and Systems I: Regular Papers, </em>2024. DOI: 10.1109/TCSI.2024.3438164</span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">[14] Mayahinia, T. Marinelli, Z. Pei, H.-H. Liu, C. Pan, Z. Tokei, F. Catthoor, and M. B. Tahoori, "Dynamic Segmented Bus for Energy-efficient Last-level Cache in Advanced Interconnect-dominant Nodes", <em>IEEE Embedded Systems Letters</em>, 2024. DOI: 10.1109/LES.2024.3444711</span>
 
-<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 14pt;">[2] Mayahinia, T. Marinelli, Z. Pei, H.-H. Liu, C. Pan, Z. Tokei, F. Catthoor, and M. B. Tahoori, "Dynamic Segmented Bus for Energy-efficient Last-level Cache in Advanced Interconnect-dominant Nodes", <em>IEEE Embedded Systems Letters</em>, 2024. DOI: 10.1109/LES.2024.3444711</span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">[13] H.-H. Liu, C. Gilardi, S. M. Salahuddin, Z. Pei, P. Schuddinck, Y. Xiang, P. Weckx, G. Hellings, M. G. Bardon, and J. Ryckaert, "Future Design Direction for SRAM Data Array: Hierarchical Subarray With Active Interconnect," <em>IEEE Transactions on Circuits and Systems I: Regular Papers, </em>2024. DOI: 10.1109/TCSI.2024.3410518</span>
 
-<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 14pt;">[3] H.-H. Liu, C. Gilardi, S. M. Salahuddin, Z. Pei, P. Schuddinck, Y. Xiang, P. Weckx, G. Hellings, M. G. Bardon, and J. Ryckaert, "Future Design Direction for SRAM Data Array: Hierarchical Subarray With Active Interconnect," <em>IEEE Transactions on Circuits and Systems I: Regular Papers, </em>2024. DOI: 10.1109/TCSI.2024.3410518</span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">[12] H.-H. Liu, P. Schuddinck, Z. Pei, L. Verschueren, H. Mertens, S. M. Salahuddin, G. Hiblot, Y. Xiang, B. T. Chan, and S. Subramanian, "CFET SRAM With Double-Sided Interconnect Design and DTCO Benchmark," <em>IEEE Transactions on Electron Devices, </em>2023. DOI: 10.1109/TED.2023.3305322</span>
 
-<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 14pt;">[4] H.-H. Liu, P. Schuddinck, Z. Pei, L. Verschueren, H. Mertens, S. M. Salahuddin, G. Hiblot, Y. Xiang, B. T. Chan, and S. Subramanian, "CFET SRAM With Double-Sided Interconnect Design and DTCO Benchmark," <em>IEEE Transactions on Electron Devices, </em>2023. DOI: 10.1109/TED.2023.3305322</span>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">[11] S. Lu, Z. Pei, L. Shang, S. Jung, Q. Liang, and C. Pan, "Graphene-Based FPGA Design and Optimization at the 7nm FinFET Technology Node", in<em> 2025 26th International Symposium on Quality Electronic Design (ISQED)</em>, 2025, pp. 1-7. DOI: 10.1109/ISQED65160.2025.11014392</span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;">[5] S. Lu, Z. Pei, L. Shang, S. Jung, Q. Liang, and C. Pan, "Graphene-Based FPGA Design and Optimization at the 7nm FinFET Technology Node", in<em> 2025 26th International Symposium on Quality Electronic Design (ISQED)</em>, 2025. </span>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">[10] S. Lu, Z. Pei, L. Shang, S. Jung, and C. Pan, "A Technology/Circuit Co-design Framework for Emerging Reconfigurable Devices," in <em>2023 IEEE 66th International Midwest Symposium on Circuits and Systems (MWSCAS)</em>, 2023, pp. 1123-1127. DOI: 10.1109/MWSCAS57524.2023.10406005</span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;">[6] S. Lu, Z. Pei, L. Shang, S. Jung, and C. Pan, "A Technology/Circuit Co-design Framework for Emerging Reconfigurable Devices," in <em>2023 IEEE 66th International Midwest Symposium on Circuits and Systems (MWSCAS)</em>, 2023, pp. 1123-1127. DOI: 10.1109/MWSCAS57524.2023.10406005</span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">[9] Z. Pei, M. Mayahinia, H.-H. Liu, M. Tahoori, F. Catthoor, Z. Tokei, and C. Pan, "Technology/Memory Co-Design and Co-Optimization Using E-Tree Interconnect," in <em>Proceedings of the Great Lakes Symposium on VLSI 2023</em>, 2023, pp. 159-162. DOI: 10.1145/3583781.3590311</span>
 
-<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 14pt;">[7] Z. Pei, M. Mayahinia, H.-H. Liu, M. Tahoori, F. Catthoor, Z. Tokei, and C. Pan, "Technology/Memory Co-Design and Co-Optimization Using E-Tree Interconnect," in <em>Proceedings of the Great Lakes Symposium on VLSI 2023</em>, 2023, pp. 159-162. DOI: 10.1145/3583781.3590311</span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">[8] Z. Pei, M. Mayahinia, H.-H. Liu, M. Tahoori, S. M. Salahuddin, F. Catthoor, Z. Tokei, and C. Pan, "Emerging Interconnect Exploration for SRAM Application Using Nonconventional H-Tree and Center-Pin Access," in <em>2023 24th International Symposium on Quality Electronic Design (ISQED)</em>, 2023, pp. 1-1. DOI: 10.1109/ISQED57927.2023.10129316</span>
 
-<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 14pt;">[8] Z. Pei, M. Mayahinia, H.-H. Liu, M. Tahoori, S. M. Salahuddin, F. Catthoor, Z. Tokei, and C. Pan, "Emerging Interconnect Exploration for SRAM Application Using Nonconventional H-Tree and Center-Pin Access," in <em>2023 24th International Symposium on Quality Electronic Design (ISQED)</em>, 2023, pp. 1-1. DOI: 10.1109/ISQED57927.2023.10129316</span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">[7] Z. Pei, M. Mayahinia, H.-H. Liu, M. Tahoori, F. Catthoor, Z. Tokei, and C. Pan, "Graphene-Based Interconnect Exploration for Large SRAM Caches for Ultrascaled Technology Nodes," <em>IEEE Transactions on Electron Devices, </em>vol. 70, pp. 230-238, 2022. DOI: 10.1109/TED.2022.3225512</span>
 
-<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 14pt;">[9] Z. Pei, M. Mayahinia, H.-H. Liu, M. Tahoori, F. Catthoor, Z. Tokei, and C. Pan, "Graphene-Based Interconnect Exploration for Large SRAM Caches for Ultrascaled Technology Nodes," <em>IEEE Transactions on Electron Devices, </em>vol. 70, pp. 230-238, 2022. DOI: 10.1109/TED.2022.3225512</span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">[6] Z. Pei, F. Catthoor, Z. Tokei, and C. Pan, "Beyond-Cu Intermediate-Length Interconnect Exploration for SRAM Application," <em>IEEE Transactions on Nanotechnology, </em>2022. DOI: 10.1109/TNANO.2022.3157952</span>
 
-<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 14pt;">[10] Z. Pei, F. Catthoor, Z. Tokei, and C. Pan, "Beyond-Cu Intermediate-Length Interconnect Exploration for SRAM Application," <em>IEEE Transactions on Nanotechnology, </em>2022. DOI: 10.1109/TNANO.2022.3157952</span>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">[5] Z. Pei, A. Dutta, L. Shang, S. Jung, and C. Pan, "Interconnect Technology/System Co-Optimization for Low-Power VLSI Applications Using Ballistic Materials," <em>IEEE Transactions on Electron Devices, </em>vol. 68, pp. 3513-3519, 2021. DOI: 10.1109/TED.2021.3077210</span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;">[11] Z. Pei, A. Dutta, L. Shang, S. Jung, and C. Pan, "Interconnect Technology/System Co-Optimization for Low-Power VLSI Applications Using Ballistic Materials," <em>IEEE Transactions on Electron Devices, </em>vol. 68, pp. 3513-3519, 2021. DOI: 10.1109/TED.2021.3077210</span>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">[4] Z. Pei, L. Shang, S. Jung, and C. Pan, "Deep Pipeline Circuit for Low-Power Spintronic Devices," <em>IEEE Transactions on Electron Devices, </em>vol. 68, pp. 1962-1968, 2021. DOI: 10.1109/TED.2021.3059601</span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;">[12] Z. Pei, L. Shang, S. Jung, and C. Pan, "Deep Pipeline Circuit for Low-Power Spintronic Devices," <em>IEEE Transactions on Electron Devices, </em>vol. 68, pp. 1962-1968, 2021. DOI: 10.1109/TED.2021.3059601</span>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">[3] G. Jalilvand, O. Ahmed, K. Bosworth, C. Fitzgerald, Z. Pei, and T. Jaing, "Application of a metallic cap layer to control Cu TSV extrusion," in <em>2017 IEEE 67th Electronic Components and Technology Conference (ECTC)</em>, 2017, pp. 61-66. DOI: 10.1109/ECTC.2017.290</span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;">[13] G. Jalilvand, O. Ahmed, K. Bosworth, C. Fitzgerald, Z. Pei, and T. Jaing, "Application of a metallic cap layer to control Cu TSV extrusion," in <em>2017 IEEE 67th Electronic Components and Technology Conference (ECTC)</em>, 2017, pp. 61-66. DOI: 10.1109/ECTC.2017.290</span>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">[2] Y. Yuan, M. Du, S. Zhang, and Z. Pei, "Effects of BiNbO<sub>4</sub> on the microstructure and dielectric properties of BaTiO<sub>3</sub>-based ceramics," <em>Journal of Materials Science: Materials in Electronics, </em>vol. 20, pp. 157-162, 2009. DOI: 10.1007/s10854-008-9674-5</span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;">[14] Y. Yuan, M. Du, S. Zhang, and Z. Pei, "Effects of BiNbO<sub>4</sub> on the microstructure and dielectric properties of BaTiO<sub>3</sub>-based ceramics," <em>Journal of Materials Science: Materials in Electronics, </em>vol. 20, pp. 157-162, 2009. DOI: 10.1007/s10854-008-9674-5</span>
-<pre><span style="font-family: 'times new roman', times, serif; font-size: 14pt;"><span style="color: #0000ff;"><span style="color: #000000;">The macro-level data utilized in the research presented in the <strong>book</strong> was generated using</span> <span style="color: #b30000;"><code>Cacti++</code></span></span>: </span></pre>
-<span style="font-family: 'times new roman', times, serif; font-size: 14pt;"><a href="https://link.springer.com/book/10.1007/978-3-031-76109-6" target="_blank" rel="noopener">Circuit-Technology Co-Optimization of SRAM Design in Advanced CMOS Nodes</a></span>
+<span style="font-family: 'times new roman', times, serif;">[1] Z. Pei, Y. Yuan, S. Zhang, and B. Li, “Studies on Fabrication and Properties of High Temperature Ceramic Capacitors Sintered at Intermediate Temperature,” <em>Materials Reports: Special Issue on Nanomaterials and New Materials</em>, issue 1, pp. 366–369, 2009. DOI: 10.3321/j.issn:1005-023X.2009.z1.108</span>
+<pre><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><span style="color: #0000ff;"><span style="color: #000000;">**The macro-level data utilized in the research presented in the <strong>book</strong> was generated using</span> <span style="color: #b30000;"><code>Cacti++</code></span></span>: </span></pre>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">**<a href="https://link.springer.com/book/10.1007/978-3-031-76109-6" target="_blank" rel="noopener">Circuit-Technology Co-Optimization of SRAM Design in Advanced CMOS Nodes</a></span>
 
-<span style="font-size: 14pt; font-family: 'times new roman', times, serif;">H.-H. Liu and F. Catthoor, "Circuit-Technology Co-Optimization of SRAM Design in Advanced CMOS Nodes," ed: <em>Springer</em>, 2024. DOI: 10.1007/978-3-031-76109-6</span>
+<span style="font-size: 12pt; font-family: 'times new roman', times, serif;">H.-H. Liu and F. Catthoor, "Circuit-Technology Co-Optimization of SRAM Design in Advanced CMOS Nodes," ed: <em>Springer</em>, 2024. DOI: 10.1007/978-3-031-76109-6</span>
