@@ -588,7 +588,7 @@
 <pre><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Selected Publications</strong></span></pre>
 <span style="font-family: 'times new roman', times, serif; font-size: 12pt;">The <span style="color: #0000ff;">corresponding <code>Cacti++</code> papers in blue</span> are as follows: </span>
 
-<span style="font-family: 'times new roman', times, serif; color: #0000ff; font-size: 12pt;">[17] Z. Pei, H.-H. Liu, M. Mayahinia, M. Tahoori, F. Catthoor, Z. Tokei, P. Dubey, and C. Pan, "Interconnect/Memory Co-Design and Co-Optimization Using Differential Transmission Lines," <em>IEEE Transactions on Very Large Scale Integration (VLSI) Systems, </em>2025<em>.</em> (accepted)</span>
+<span style="font-family: 'times new roman', times, serif; color: #0000ff; font-size: 12pt;">[17] Z. Pei, H.-H. Liu, M. Mayahinia, M. Tahoori, F. Catthoor, Z. Tokei, P. Dubey, and C. Pan, "Interconnect/Memory Co-Design and Co-Optimization Using Differential Transmission Lines," <em>IEEE Transactions on Very Large Scale Integration (VLSI) Systems, </em>2025<em>.</em> DOI: 10.1109/TVLSI.2025.3595818</span>
 
 <span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">[16] M. Mayahinia, T. Marinelli, Z. Pei, H.-H. Liu, C. Pan, Z. Tőkei, F. Catthoor, M.B. Tahoori, “System-scenario-based Design of the Last-Level Cache in Advanced Interconnect-Dominant Technology Nodes,” <em>ACM</em> <em>Transactions on Embedded Computing Systems (TECS),</em> 2025. (accepted)</span>
 
