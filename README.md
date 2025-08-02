@@ -510,7 +510,7 @@
 </tr>
 <tr style="height: 22px;">
 <td style="width: 16.8374%; height: 22px;"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;">-Vdd (V)</span></td>
-<td style="width: 49.8292%; height: 22px;"></td>
+<td style="width: 49.8292%; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Supply voltage.</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 16.8374%; height: 22px;"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;">-Vth (V)</span></td>
