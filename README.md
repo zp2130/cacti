@@ -585,7 +585,7 @@
 <hr />
 
 <span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><a href="https://scholar.google.com/citations?hl=en&amp;user=-pdAvr4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0002-0926-2838" target="_blank" rel="noopener">ORCID</a></span>
-<pre><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Selected Publications</strong></span></pre>
+<pre><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Selected Publications:</strong></span></pre>
 <span style="font-family: 'times new roman', times, serif; font-size: 12pt;">The <span style="color: #0000ff;">corresponding <code>Cacti++</code> papers in blue</span> are as follows: </span>
 
 <span style="font-family: 'times new roman', times, serif; color: #0000ff; font-size: 12pt;">[17] Z. Pei, H.-H. Liu, M. Mayahinia, M. Tahoori, F. Catthoor, Z. Tokei, P. Dubey, and C. Pan, "Interconnect/Memory Co-Design and Co-Optimization Using Differential Transmission Lines," <em>IEEE Transactions on Very Large Scale Integration (VLSI) Systems, </em>2025<em>.</em> DOI: 10.1109/TVLSI.2025.3595818</span>
