@@ -624,4 +624,4 @@
 <pre><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><span style="color: #0000ff;"><span style="color: #000000;">*The macro-level data utilized in the research presented in the <strong>book</strong> was generated using</span> <span style="color: #b30000;"><code>Cacti++</code></span></span>: </span></pre>
 <span style="font-family: 'times new roman', times, serif; font-size: 12pt;">*<a href="https://link.springer.com/book/10.1007/978-3-031-76109-6" target="_blank" rel="noopener">Circuit-Technology Co-Optimization of SRAM Design in Advanced CMOS Nodes</a></span>
 
-<span style="font-size: 12pt; font-family: 'times new roman', times, serif;">H.-H. Liu and F. Catthoor, "Circuit-Technology Co-Optimization of SRAM Design in Advanced CMOS Nodes," ed: <em>Springer</em>, 2024. DOI: 10.1007/978-3-031-76109-6</span>
+<span style="font-size: 12pt; font-family: 'times new roman', times, serif;">H.-H. Liu and F. Catthoor, "Circuit-Technology Co-Optimization of SRAM Design in Advanced CMOS Nodes," <em>Springer</em>, 2024. DOI: 10.1007/978-3-031-76109-6</span>
