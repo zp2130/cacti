@@ -51,8 +51,8 @@
 <tr style="height: 44px;">
 <td style="width: 10%; text-align: center; height: 66px;" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Interconnect Device Technology</strong></span></td>
 <td style="width: 10%; text-align: center; height: 66px;" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>ASU PTM [6]</strong></span></td>
-<td style="width: 30.2491%; text-align: center; height: 66px;" colspan="3" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>IMEC N3(iN5) [7~9, 14, 16]</strong></span></td>
-<td style="width: 56.8449%; text-align: center; height: 44px;" colspan="4"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>IMEC A14(iN3) [12, 13, 15, 17, *]</strong></span></td>
+<td style="width: 30.2491%; text-align: center; height: 66px;" colspan="3" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>IMEC N3 (iN5) [7~9, 14, 16]</strong></span></td>
+<td style="width: 56.8449%; text-align: center; height: 44px;" colspan="4"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>IMEC A14 (iN3) [12, 13, 15, 17, *]</strong></span></td>
 <td style="width: 1.45299%; text-align: center; height: 44px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">1</span></td>
 </tr>
 <tr style="height: 22px;">
