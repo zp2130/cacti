@@ -590,7 +590,7 @@
 
 <span style="font-family: 'times new roman', times, serif; color: #0000ff; font-size: 12pt;">%[17] Z. Pei, H.-H. Liu, M. Mayahinia, M. Tahoori, F. Catthoor, Z. Tokei, P. Dubey, and C. Pan, "Interconnect/Memory Co-Design and Co-Optimization Using Differential Transmission Lines," <em>IEEE Transactions on Very Large Scale Integration (VLSI) Systems, </em>2025<em>.</em> DOI: 10.1109/TVLSI.2025.3595818</span>
 
-<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">%[16] M. Mayahinia, T. Marinelli, Z. Pei, H.-H. Liu, C. Pan, Z. Tőkei, F. Catthoor, M.B. Tahoori, “System-scenario-based Design of the Last-Level Cache in Advanced Interconnect-Dominant Technology Nodes,” <em>ACM</em> <em>Transactions on Embedded Computing Systems (TECS),</em> 2025. (accepted)</span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">%[16] M. Mayahinia, T. Marinelli, Z. Pei, H.-H. Liu, C. Pan, Z. Tőkei, F. Catthoor, M.B. Tahoori, “System-scenario-based Design of the Last-Level Cache in Advanced Interconnect-Dominant Technology Nodes,” <em>ACM</em> <em>Transactions on Embedded Computing Systems (TECS),</em> 2025. DOI: 10.1145/3762649</span>
 
 <span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">%[15] Z. Pei, H.-H. Liu, M. Mayahinia, M. B. Tahoori, F. Catthoor, Z. Tőkei, D. B. Abdi, J. Myers, and C. Pan, "<a href="https://ieeexplore.ieee.org/document/10638740" target="_blank" rel="noopener">Ultra-Scaled E-Tree-Based SRAM Design and Optimization With Interconnect Focus</a>," <em>IEEE Transactions on Circuits and Systems I: Regular Papers, </em>2024. DOI: 10.1109/TCSI.2024.3438164</span>
 
