@@ -3,7 +3,7 @@
 <hr />
 
 <pre style="text-align: center;"><span style="color: #cc0000; font-family: 'times new roman', times, serif; font-size: 12pt;"><strong><span style="color: #cc0000;">Cacti++</span></strong></span></pre>
-<p style="text-align: left;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Blog: <a href="https://blogs.cuit.columbia.edu/zp2130/cacti" target="_blank" rel="noopener">https://blogs.cuit.columbia.edu/zp2130/cacti/</a></span></p>
+<p style="text-align: left;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Github: <a href="https://blogs.cuit.columbia.edu/zp2130/cacti/" target="_blank" rel="noopener">https://blogs.cuit.columbia.edu/zp2130/cacti/</a></span></p>
 <span style="font-family: 'times new roman', times, serif; font-size: 12pt;">The research project is a collaborative undertaking between the University of Texas at Arlington (UTA) and <span style="color: #009999;"><a style="color: #009999;" href="https://www.imec-int.com/en" target="_blank" rel="noopener">Interuniversity Microelectronics Centre</a> (<a style="color: #009999;" href="https://www.imec-int.com/en" target="_blank" rel="noopener">IMEC</a>).</span> A confidentiality agreement has been duly executed by UTA and IMEC. Under copyright and intellectual property protection regulations, the executable file, technology data file, and source code are not available for online distribution. We appreciate your consideration.</span>
 
 <span style="font-family: 'times new roman', times, serif; font-size: 12pt;">[News] <a href="https://www.uta.edu/news/news-releases/2021/01/29/pan-microchips" target="_blank" rel="noopener">UTA aims to build a better microchip - Electrical engineer works to improve on-chip interconnect performance</a> - <em>Written by Jeremy Agor, College of Engineering, </em>Jan. 29, 2021.</span>
@@ -50,76 +50,76 @@
 <tbody>
 <tr style="height: 44px;">
 <td style="width: 10%; text-align: center; height: 66px;" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Interconnect Device Technology</strong></span></td>
-<td style="width: 10%; text-align: center; height: 66px;" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>ASU PTM [6]</strong></span></td>
-<td style="width: 30.2491%; text-align: center; height: 66px;" colspan="3" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>IMEC N3 (iN5) [7~9, 14, 16]</strong></span></td>
+<td style="width: 18.4019%; text-align: center; height: 66px;" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>ASU PTM [6]</strong></span></td>
+<td style="width: 21.8471%; text-align: center; height: 66px;" colspan="3" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>IMEC N3 (iN5) [7~9, 14, 16]</strong></span></td>
 <td style="width: 56.8449%; text-align: center; height: 44px;" colspan="4"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>IMEC A14 (iN3) [12, 13, 15, 17, *]</strong></span></td>
 <td style="width: 1.45299%; text-align: center; height: 44px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">1</span></td>
 </tr>
 <tr style="height: 22px;">
-<td style="width: 26.7201%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Repeater Insertion</span></td>
-<td style="width: 30.1248%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Repeater vs DTL</span></td>
+<td style="width: 24.6608%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Repeater Insertion</span></td>
+<td style="width: 32.1841%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Repeater vs DTL</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">2</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Subarray</strong></span></td>
-<td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">PTM-based bitline for materials</span></td>
-<td style="width: 30.2491%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">High-level Subarray Model</span></td>
+<td style="width: 18.4019%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">PTM-based bitline for materials</span></td>
+<td style="width: 21.8471%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">High-level Subarray Model</span></td>
 <td style="width: 56.8449%; text-align: center; height: 22px;" colspan="4"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">IMEC-designed A3~14</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">3</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Organization</strong></span></td>
-<td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Memory Cells/ Subarray/Mat/Bank/Array</span></td>
-<td style="width: 87.094%; text-align: center; height: 22px;" colspan="7"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Subarray/Mat/Bank/Array</span></td>
+<td style="width: 18.4019%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Memory Cells/ Subarray/Mat/Bank/Array</span></td>
+<td style="width: 78.692%; text-align: center; height: 22px;" colspan="7"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Subarray/Mat/Bank/Array</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">4</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Pin Type</strong></span></td>
-<td style="width: 20%; text-align: center; height: 22px;" colspan="2"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Original Side Pin</span></td>
-<td style="width: 77.094%; text-align: center; height: 22px;" colspan="6"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Side Pin or Center Pin or Nonconventional</span></td>
+<td style="width: 25.4365%; text-align: center; height: 22px;" colspan="2"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Original Side Pin</span></td>
+<td style="width: 71.6574%; text-align: center; height: 22px;" colspan="6"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Side Pin or Center Pin or Nonconventional</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">5</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Tree Type</strong></span></td>
-<td style="width: 30%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Original H-Tree</span></td>
-<td style="width: 67.094%; text-align: center; height: 22px;" colspan="5"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">H-Tree or E-Tree</span></td>
+<td style="width: 32.9653%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Original H-Tree</span></td>
+<td style="width: 64.1286%; text-align: center; height: 22px;" colspan="5"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">H-Tree or E-Tree</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">6</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Cache/Array</strong></span></td>
-<td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Original arrays, no logic cores.</span></td>
-<td style="width: 37.8308%; text-align: center; height: 22px;" colspan="4"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Data array, A<sub>logic</sub>=A<sub>sum_subarray</sub></span></td>
-<td style="width: 49.2632%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Cache with tag array overhead, A<sub>logic</sub>=A<sub>cache</sub></span></td>
+<td style="width: 18.4019%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Original arrays, no logic cores.</span></td>
+<td style="width: 28.6051%; text-align: center; height: 22px;" colspan="4"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Data array, A<sub>logic</sub>=A<sub>sum_subarray</sub></span></td>
+<td style="width: 50.0869%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Cache with tag array overhead, A<sub>logic</sub>=A<sub>cache</sub></span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">7</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Interconnect Delay/Energy</strong></span></td>
-<td style="width: 57.1413%; text-align: center; height: 22px;" colspan="6"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Original equation-based 30% delay overhead for Tpu/Epu</span></td>
-<td style="width: 39.9527%; text-align: center; height: 22px;" colspan="2"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Spectre simulation &amp; Matlab fitting</span></td>
+<td style="width: 56.3998%; text-align: center; height: 22px;" colspan="6"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Original equation-based 30% delay overhead for Tpu/Epu</span></td>
+<td style="width: 40.6941%; text-align: center; height: 22px;" colspan="2"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Spectre simulation &amp; Matlab fitting</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">8</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Interconnect RC/RLC</strong></span></td>
-<td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Original assumptions</span></td>
-<td style="width: 56.9692%; text-align: center; height: 22px;" colspan="6"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Cpu is extracted by Synopsys Raphael</span></td>
-<td style="width: 30.1248%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">DTL adopts RLC</span></td>
+<td style="width: 18.4019%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Original assumptions</span></td>
+<td style="width: 46.5079%; text-align: center; height: 22px;" colspan="6"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Cpu is extracted by Synopsys Raphael</span></td>
+<td style="width: 32.1841%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">DTL adopts RLC</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">9</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">1</span></td>
-<td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">2</span></td>
-<td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">3</span></td>
-<td style="width: 10%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">4</span></td>
-<td style="width: 10.2491%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">5</span></td>
-<td style="width: 7.58171%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">6</span></td>
-<td style="width: 9.31047%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">7</span></td>
-<td style="width: 9.82793%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">8</span></td>
-<td style="width: 30.1248%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">9</span></td>
+<td style="width: 18.4019%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">2</span></td>
+<td style="width: 7.03458%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">3</span></td>
+<td style="width: 7.52883%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">4</span></td>
+<td style="width: 7.2837%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">5</span></td>
+<td style="width: 6.75799%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">6</span></td>
+<td style="width: 9.39284%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">7</span></td>
+<td style="width: 8.50998%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">8</span></td>
+<td style="width: 32.1841%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">9</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">10</span></td>
 </tr>
 <tr>
 <td style="width: 10%; text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><strong>Metrics</strong></span></td>
-<td style="width: 97.094%; text-align: center;" colspan="8"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><strong>→Model Development Timeline→</strong>
+<td style="width: 97.0939%; text-align: center;" colspan="8"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><strong>→Model Development Timeline→</strong>
 </span></td>
 <td style="width: 1.45299%; text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"> </span></td>
 </tr>
@@ -184,7 +184,7 @@
 </table>
 <span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><img class="alignnone wp-image-5734 size-medium" src="http://blogs.cuit.columbia.edu/zp2130/files/2024/09/3DIC_intsim_pso_10056-300x132.png" alt="Software workload" width="300" height="132" />→<img class="wp-image-6514 size-medium alignnone" src="http://blogs.cuit.columbia.edu/zp2130/files/2025/08/syn-300x62.png" alt="" width="300" height="62" /></span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 12pt;"> <span class="fontstyle0">If the probability factor α</span><span class="fontstyle2"> </span><span class="fontstyle0">is close to 0, it indicates a uniform workload. As </span><span class="fontstyle2">α </span><span class="fontstyle0">increases, there is more access to data closer to the array root pin. Thus, sweeping </span><span class="fontstyle2">α </span><span class="fontstyle0">provides an efficient way to quantify the potential advantages of E-Tree. <em>P<sub>subarray_i</sub></em> , <em>L<sub>subarray_i</sub></em> , <span class="fontstyle1">and <em>T<sub>subarray_i</sub></em> </span><span class="fontstyle1">are the access probability to subarray </span><em>i</em> ,<span class="fontstyle1"> the length (in the space) and the delay (in the timing) of interconnect to subarray </span><em>i</em> <span class="fontstyle1">from the array root pin, respectively. <em>A<sub>ccessbank_i</sub></em> is the total access number to the bank <em>i</em>. Realistic workloads of non-uniform are executed from SPEC CPU 2017, and a list of benchmarks is shown below:</span></span></span>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;"> <span class="fontstyle0">If the probability factor α</span><span class="fontstyle2"> </span><span class="fontstyle0">is close to 0, it indicates a uniform workload. As </span><span class="fontstyle2">α </span><span class="fontstyle0">increases, there is more access to data closer to the array root pin. Thus, sweeping </span><span class="fontstyle2">α </span><span class="fontstyle0">provides an efficient way to quantify the potential advantages of E-Tree. <em>P<sub>subarray<span class="fontstyle1">_</span>i</sub></em> , <em>L<sub>subarray<span class="fontstyle1">_</span>i</sub></em> , <span class="fontstyle1">and <em>T<sub>subarray_i</sub></em> </span><span class="fontstyle1">are the access probability to subarray </span><em>i</em> ,<span class="fontstyle1"> the length (in the space) and the delay (in the timing) of interconnect to subarray </span><em>i</em> <span class="fontstyle1">from the array root pin, respectively. <em>A<sub>ccessbank_i</sub></em> is the total access number to the bank <em>i</em>. Realistic workloads of non-uniform are executed from SPEC CPU 2017, and a list of benchmarks is shown below:</span></span></span>
 <table style="width: 99.9477%; border-collapse: collapse; border-style: dotted; height: 202px;"><caption><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"> <span class="fontstyle0">N</span><span class="fontstyle0">ON</span><span class="fontstyle0">-U</span><span class="fontstyle0">NIFORM </span><span class="fontstyle0">W</span><span class="fontstyle0">ORKLOAD </span><span class="fontstyle0">F</span><span class="fontstyle0">ROM </span><span class="fontstyle0">SPEC CPU 2017</span></span></caption>
 <tbody>
 <tr style="height: 24px;">
@@ -588,13 +588,13 @@
 <pre><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Selected Publications:</strong></span></pre>
 <span style="font-family: 'times new roman', times, serif; font-size: 12pt;">The <span style="color: #0000ff;">corresponding <code>Cacti++</code> papers and book with %</span> are as follows: </span>
 
-<span style="font-family: 'times new roman', times, serif; color: #0000ff; font-size: 12pt;">%[17] Z. Pei, H.-H. Liu, M. Mayahinia, M. Tahoori, F. Catthoor, Z. Tokei, P. Dubey, and C. Pan, "Interconnect/Memory Co-Design and Co-Optimization Using Differential Transmission Lines," <em>IEEE Transactions on Very Large Scale Integration (VLSI) Systems, </em>2025<em>.</em> DOI: 10.1109/TVLSI.2025.3595818</span>
+<span style="font-family: 'times new roman', times, serif; color: #0000ff; font-size: 12pt;">%[17] Z. Pei, H.-H. Liu, M. Mayahinia, M. Tahoori, F. Catthoor, Z. Tokei, P. Dubey, and C. Pan, "<a href="https://ieeexplore.ieee.org/document/11145952/" target="_blank" rel="noopener">Interconnect/Memory Co-Design and Co-Optimization Using Differential Transmission Lines</a>," <em>IEEE Transactions on Very Large Scale Integration (VLSI) Systems, </em>2025<em>.</em> DOI: 10.1109/TVLSI.2025.3595818</span>
 
-<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">%[16] M. Mayahinia, T. Marinelli, Z. Pei, H.-H. Liu, C. Pan, Z. Tőkei, F. Catthoor, M.B. Tahoori, “System-scenario-based Design of the Last-Level Cache in Advanced Interconnect-Dominant Technology Nodes,” <em>ACM</em> <em>Transactions on Embedded Computing Systems (TECS),</em> 2025. DOI: 10.1145/3762649</span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">%[16] M. Mayahinia, T. Marinelli, Z. Pei, H.-H. Liu, C. Pan, Z. Tőkei, F. Catthoor, M.B. Tahoori, “<a href="http://dx.doi.org/10.1145/3762649" target="_blank" rel="noopener">System Scenario-based Design of the Last-Level Cache in Advanced Interconnect-Dominant Technology Nodes</a>,” <em>ACM</em> <em>Transactions on Embedded Computing Systems (TECS),</em> 2025. DOI: 10.1145/3762649</span>
 
 <span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">%[15] Z. Pei, H.-H. Liu, M. Mayahinia, M. B. Tahoori, F. Catthoor, Z. Tőkei, D. B. Abdi, J. Myers, and C. Pan, "<a href="https://ieeexplore.ieee.org/document/10638740" target="_blank" rel="noopener">Ultra-Scaled E-Tree-Based SRAM Design and Optimization With Interconnect Focus</a>," <em>IEEE Transactions on Circuits and Systems I: Regular Papers, </em>2024. DOI: 10.1109/TCSI.2024.3438164</span>
 
-<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">%[14] Mayahinia, T. Marinelli, Z. Pei, H.-H. Liu, C. Pan, Z. Tokei, F. Catthoor, and M. B. Tahoori, "<a href="https://ieeexplore.ieee.org/document/10779521" target="_blank" rel="noopener">Dynamic Segmented Bus for Energy-efficient Last-level Cache in Advanced Interconnect-dominant Nodes</a>", <em>IEEE Embedded Systems Letters</em>, 2024. DOI: 10.1109/LES.2024.3444711</span>
+<span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">%[14] M. Mayahinia, T. Marinelli, Z. Pei, H.-H. Liu, C. Pan, Z. Tokei, F. Catthoor, and M. B. Tahoori, "<a href="https://ieeexplore.ieee.org/document/10779521" target="_blank" rel="noopener">Dynamic Segmented Bus for Energy-efficient Last-level Cache in Advanced Interconnect-dominant Nodes</a>", <em>IEEE Embedded Systems Letters</em>, 2024. DOI: 10.1109/LES.2024.3444711</span>
 
 <span style="color: #0000ff; font-family: 'times new roman', times, serif; font-size: 12pt;">%[13] H.-H. Liu, C. Gilardi, S. M. Salahuddin, Z. Pei, P. Schuddinck, Y. Xiang, P. Weckx, G. Hellings, M. G. Bardon, and J. Ryckaert, "<a href="https://ieeexplore.ieee.org/document/10561885" target="_blank" rel="noopener">Future Design Direction for SRAM Data Array: Hierarchical Subarray With Active Interconnect</a>," <em>IEEE Transactions on Circuits and Systems I: Regular Papers, </em>2024. DOI: 10.1109/TCSI.2024.3410518</span>
 
@@ -622,6 +622,6 @@
 
 <span style="font-family: 'times new roman', times, serif; font-size: 12pt;">[1] Z. Pei, Y. Yuan, S. Zhang, and B. Li, “<a href="http://doi.org/10.3321/j.issn:1005-023X.2009.z1.108" target="_blank" rel="noopener">Studies on Fabrication and Properties of High Temperature Ceramic Capacitors Sintered at Intermediate Temperature</a>,” <em>Materials Reports: Special Issue on Nanomaterials and New Materials</em>, issue 1, pp. 366–369, 2009. DOI: 10.3321/j.issn:1005-023X.2009.z1.108</span>
 <pre><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><span style="color: #0000ff;"><span style="color: #000000;">*The macro-level data utilized in the research presented in the <strong>book</strong> was generated using</span> <span style="color: #b30000;"><code>Cacti++</code></span></span>: </span></pre>
-<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">%[*] <span style="font-size: 12pt; font-family: 'times new roman', times, serif; color: #0000ff;">H.-H. Liu and F. Catthoor, "</span><a href="https://link.springer.com/book/10.1007/978-3-031-76109-6" target="_blank" rel="noopener">Circuit-Technology Co-Optimization of SRAM Design in Advanced CMOS Nodes</a><span style="font-size: 12pt; font-family: 'times new roman', times, serif; color: #0000ff;">," <em>Springer</em>, 2024. DOI: 10.1007/978-3-031-76109-6</span></span>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><span style="color: #0000ff;">[*] </span><span style="font-size: 12pt; font-family: 'times new roman', times, serif; color: #0000ff;">H.-H. Liu and F. Catthoor, "</span><a href="https://link.springer.com/book/10.1007/978-3-031-76109-6" target="_blank" rel="noopener">Circuit-Technology Co-Optimization of SRAM Design in Advanced CMOS Nodes</a><span style="font-size: 12pt; font-family: 'times new roman', times, serif; color: #0000ff;">," <em>Springer</em>, 2024. DOI: 10.1007/978-3-031-76109-6</span></span>
 
 &nbsp;
