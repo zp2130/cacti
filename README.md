@@ -584,7 +584,7 @@
 
 <hr />
 
-<span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><a href="https://scholar.google.com/citations?hl=en&amp;user=-pdAvr4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0002-0926-2838" target="_blank" rel="noopener">ORCID</a></span>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><a href="https://scholar.google.com/citations?hl=en&amp;user=-pdAvr4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0002-0926-2838" target="_blank" rel="noopener">ORCID</a>, <a href="https://www.researchgate.net/profile/Zhenlin-Pei" target="_blank" rel="noopener">ResearchGate</a>. <a href="https://www.myendnoteweb.com/EndNoteWeb.html?func=import%20citations" target="_blank" rel="noopener">EndNote</a>. </span>
 <pre><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Selected Publications:</strong></span></pre>
 <span style="font-family: 'times new roman', times, serif; font-size: 12pt;">The <span style="color: #0000ff;">corresponding <code>Cacti++</code> papers and book with %</span> are as follows: </span>
 
