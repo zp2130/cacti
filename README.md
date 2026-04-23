@@ -51,7 +51,7 @@
 <tr style="height: 44px;">
 <td style="width: 10%; text-align: center; height: 66px;" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Interconnect Device Technology</strong></span></td>
 <td style="width: 18.4019%; text-align: center; height: 66px;" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>ASU PTM [6]</strong></span></td>
-<td style="width: 21.8471%; text-align: center; height: 66px;" colspan="3" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>IMEC N3 (iN5) [7~9, 14, 16]</strong></span></td>
+<td style="width: 21.8471%; text-align: center; height: 66px;" colspan="3" rowspan="2"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>IMEC N3 (iN5) [7–9, 14, 16]</strong></span></td>
 <td style="width: 56.8449%; text-align: center; height: 44px;" colspan="4"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>IMEC A14 (iN3) [12, 13, 15, 17, *]</strong></span></td>
 <td style="width: 1.45299%; text-align: center; height: 44px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">1</span></td>
 </tr>
@@ -64,7 +64,7 @@
 <td style="width: 10%; text-align: center; height: 22px;"><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Subarray</strong></span></td>
 <td style="width: 18.4019%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">PTM-based bitline for materials</span></td>
 <td style="width: 21.8471%; text-align: center; height: 22px;" colspan="3"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">High-level Subarray Model</span></td>
-<td style="width: 56.8449%; text-align: center; height: 22px;" colspan="4"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">IMEC-designed A3~14</span></td>
+<td style="width: 56.8449%; text-align: center; height: 22px;" colspan="4"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">IMEC-designed A3–14</span></td>
 <td style="width: 1.45299%; text-align: center; height: 22px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">3</span></td>
 </tr>
 <tr style="height: 22px;">
@@ -316,12 +316,12 @@
 <tr style="height: 48px;">
 <td style="width: 3.43915%; height: 48px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">-SHD_SHP_SLP_DC_DAI </span></td>
 <td style="width: 2.26026%; height: 48px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">0</span></td>
-<td style="width: 47.4237%; height: 48px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">0~6: Index of device and subarray design from <span style="color: #009999;">IMEC</span>, including standard design: 0 high density, 1 high performance, 2 low power; divided design: 3 conventional, 4 active interconnect A14, 5 active interconnect 22nm FDSOI, 6 A14 Si.</span></td>
+<td style="width: 47.4237%; height: 48px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">0–6: Index of device and subarray design from <span style="color: #009999;">IMEC</span>, including standard design: 0 high density, 1 high performance, 2 low power; divided design: 3 conventional, 4 active interconnect A14, 5 active interconnect 22nm FDSOI, 6 A14 Si.</span></td>
 </tr>
 <tr style="height: 24px;">
 <td style="width: 3.43915%; height: 24px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">-SHD_sweep_a14_to_a3 </span></td>
 <td style="width: 2.26026%; height: 24px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">0</span></td>
-<td style="width: 47.4237%; height: 24px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">For high-density subarray, 0: A14, [128~1024]C×[128~512]R; 1: A14, A10, A5, and A3 for 288C×256R, 576C×128R.</span></td>
+<td style="width: 47.4237%; height: 24px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">For high-density subarray, 0: A14, [128–1024]C×[128–512]R; 1: A14, A10, A5, and A3 for 288C×256R, 576C×128R.</span></td>
 </tr>
 <tr style="height: 24px;">
 <td style="width: 3.43915%; height: 24px;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">-LBWL_per_subarray
