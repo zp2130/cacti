@@ -588,7 +588,7 @@
 <pre><span style="font-size: 12pt; font-family: 'times new roman', times, serif;"><strong>Selected Publications:</strong></span></pre>
 <span style="font-family: 'times new roman', times, serif; font-size: 12pt;">The <span style="color: #0000ff;">corresponding <code>Cacti++</code> papers and book in blue</span> are as follows: </span>
 
-<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">[18] <strong>Z. Pei</strong>*, S. Lu*, L. Shang, S. Jung, Q. Liang, and C. Pan, “<a href="https://doi.org/10.1145/3810248" target="_blank" rel="noopener">Graphene-based interconnect exploration for FPGA design and optimization towards the end of the roadmap</a>,” <i>ACM Transactions on Design Automation of Electronic Systems, </i>2026<i>. </i>DOI: 10.1145/3810248</span>
+<span style="font-family: 'times new roman', times, serif; font-size: 12pt;">[18] <strong>Z. Pei</strong>*, S. Lu\*, L. Shang, S. Jung, Q. Liang, and C. Pan, “<a href="https://doi.org/10.1145/3810248" target="_blank" rel="noopener">Graphene-based interconnect exploration for FPGA design and optimization towards the end of the roadmap</a>,” <i>ACM Transactions on Design Automation of Electronic Systems, </i>2026<i>. </i>DOI: 10.1145/3810248</span>
 
 <span style="font-family: 'times new roman', times, serif; color: #0000ff; font-size: 12pt;">%[17] <strong>Z. Pei</strong>, H.-H. Liu, M. Mayahinia, M. Tahoori, F. Catthoor, Z. Tokei, P. Dubey, and C. Pan, "<a href="https://ieeexplore.ieee.org/document/11145952/" target="_blank" rel="noopener">Interconnect/Memory Co-Design and Co-Optimization Using Differential Transmission Lines</a>," <em>IEEE Transactions on Very Large Scale Integration (VLSI) Systems, </em>2025<em>.</em> DOI: 10.1109/TVLSI.2025.3595818</span>
 
